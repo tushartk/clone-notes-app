@@ -1,0 +1,14 @@
+.ant-layout-sider {
+    background: #fff;
+}
+#folder-options-submenu{
+    color: black;
+}
+
+.ant-menu-submenu-arrow {
+    display: none;
+}
+
+.menu-icon {
+    font-size: 25px !important;
+}

@@ -1,0 +1,12 @@
+.file-list:hover {
+    cursor: pointer;
+}
+
+.note-list {
+    height: 90vh;
+}
+
+.folder-info-header {
+    padding-top: 1%;
+    padding-bottom: 0.75%;
+}
